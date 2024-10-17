@@ -24,7 +24,6 @@ export const PostCardItem: FC<IPostCardItem> = ({
   showDelete,
   onDelete,
   userId,
-  photo,
   setPhotos
 }): ReactElement => {
   const [showComments, setShowComments] = useState<boolean>(true);

@@ -60,6 +60,7 @@ Before you begin, ensure you have met the following requirements:
 - **Docker** installed on your local machine.
 - **Cloudinary Account**: CLOUD_NAME, API_KEY, API_SECRET
 - **Node.js** (version 18.20.4 or above) installed on your machine.
+- **Update the .env files according to the example**
 
 ## Getting Started
 
